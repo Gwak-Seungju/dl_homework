@@ -1,0 +1,23 @@
+{"time":"2024-10-25T22:43:46.8657139+09:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T22:43:46.8657139+09:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\git-directory\\link_dl\\_02_homeworks\\homework_2\\wandb\\run-20241025_224346-8rbdgw33\\logs\\debug-core.log"}
+{"time":"2024-10-25T22:43:46.8667498+09:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T22:43:46.8798254+09:00","level":"INFO","msg":"created new stream","id":"8rbdgw33"}
+{"time":"2024-10-25T22:43:46.8803567+09:00","level":"INFO","msg":"stream: started","id":"8rbdgw33"}
+{"time":"2024-10-25T22:43:46.8803567+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"8rbdgw33"}}
+{"time":"2024-10-25T22:43:46.8803567+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"8rbdgw33"}}
+{"time":"2024-10-25T22:43:46.8803567+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"8rbdgw33"}}
+{"time":"2024-10-25T22:43:47.4245333+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T22:43:47.4251131+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T22:43:57.4261341+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T22:44:07.4259576+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T22:44:17.4252696+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T22:44:27.425371+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T22:44:37.4252976+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T22:44:46.0113762+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T22:44:46.0113762+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T22:44:47.2938846+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T22:44:48.6712956+09:00","level":"INFO","msg":"stream: closing","id":"8rbdgw33"}
+{"time":"2024-10-25T22:44:48.6712956+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"8rbdgw33"}}
+{"time":"2024-10-25T22:44:48.6712956+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"8rbdgw33"}}
+{"time":"2024-10-25T22:44:48.6712956+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"8rbdgw33"}}
+{"time":"2024-10-25T22:44:48.6718063+09:00","level":"INFO","msg":"stream: closed","id":"8rbdgw33"}

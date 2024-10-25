@@ -1,0 +1,59 @@
+{"time":"2024-10-25T22:57:33.4227113+09:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T22:57:33.4232264+09:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\git-directory\\link_dl\\_02_homeworks\\homework_2\\wandb\\run-20241025_225730-s1q25r4w\\logs\\debug-core.log"}
+{"time":"2024-10-25T22:57:33.4242616+09:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T22:57:33.4427386+09:00","level":"INFO","msg":"created new stream","id":"s1q25r4w"}
+{"time":"2024-10-25T22:57:33.4502291+09:00","level":"INFO","msg":"stream: started","id":"s1q25r4w"}
+{"time":"2024-10-25T22:57:33.4502291+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"s1q25r4w"}}
+{"time":"2024-10-25T22:57:33.4502291+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"s1q25r4w"}}
+{"time":"2024-10-25T22:57:33.4502291+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"s1q25r4w"}}
+{"time":"2024-10-25T22:57:33.9963278+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T22:57:33.9973254+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T22:57:43.9977855+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T22:57:53.9975891+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T22:58:04.0258985+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T22:58:13.9979613+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T22:58:23.9982302+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T22:58:34.0036343+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T22:58:39.7397388+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:14.9731862+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:14.9756993+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:14.9945867+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:14.9984317+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:15.0119824+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:15.0144859+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:15.0286432+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:15.0317571+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:15.077145+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:15.077145+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:15.0898043+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:15.092315+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:15.1088146+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:15.1112375+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:15.1324066+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:15.135482+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:15.1470802+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:15.1494443+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:15.1639575+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:15.1661111+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:15.1789667+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:15.1807432+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:15.19399+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:15.1961626+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:15.2109251+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:17.0591996+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:17.0752281+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:18.8111353+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:18.823644+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:23.9976359+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T22:59:24.1644015+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:24.1848008+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:26.2756886+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:26.311855+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:26.3469671+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T22:59:26.3469671+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T22:59:28.8996608+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T22:59:30.3135899+09:00","level":"INFO","msg":"stream: closing","id":"s1q25r4w"}
+{"time":"2024-10-25T22:59:30.3135899+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"s1q25r4w"}}
+{"time":"2024-10-25T22:59:30.3135899+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"s1q25r4w"}}
+{"time":"2024-10-25T22:59:30.3135899+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"s1q25r4w"}}
+{"time":"2024-10-25T22:59:30.3135899+09:00","level":"INFO","msg":"stream: closed","id":"s1q25r4w"}

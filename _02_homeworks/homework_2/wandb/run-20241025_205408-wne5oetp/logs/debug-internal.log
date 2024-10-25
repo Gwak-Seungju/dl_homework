@@ -1,0 +1,51 @@
+{"time":"2024-10-25T20:54:08.5577032+09:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T20:54:08.5577032+09:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\git-directory\\link_dl\\_02_homeworks\\homework_2\\wandb\\run-20241025_205408-wne5oetp\\logs\\debug-core.log"}
+{"time":"2024-10-25T20:54:08.5582846+09:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T20:54:08.5778192+09:00","level":"INFO","msg":"created new stream","id":"wne5oetp"}
+{"time":"2024-10-25T20:54:08.5778192+09:00","level":"INFO","msg":"stream: started","id":"wne5oetp"}
+{"time":"2024-10-25T20:54:08.5778192+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wne5oetp"}}
+{"time":"2024-10-25T20:54:08.5778192+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"wne5oetp"}}
+{"time":"2024-10-25T20:54:08.5778192+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"wne5oetp"}}
+{"time":"2024-10-25T20:54:09.1030401+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T20:54:09.1042885+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T20:54:11.3379735+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.6746276+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:22.6761333+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.6895538+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:22.6930679+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.7021004+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:22.7045197+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.7221336+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:22.7279548+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.7545898+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:22.7576404+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.7830045+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:22.7854165+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.7951019+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:22.7977968+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.8158494+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:22.819341+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.8418206+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:22.8466602+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.8544699+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:22.8571804+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.8735767+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:22.8772665+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.8876057+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:22.8905378+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:22.9051349+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:24.7914058+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:24.8102078+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:26.4499243+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:26.4718398+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:29.1050976+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T20:54:33.3028682+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T20:54:33.3348347+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T20:54:33.3633962+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T20:54:33.3633962+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T20:54:36.9550865+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T20:54:38.2914292+09:00","level":"INFO","msg":"stream: closing","id":"wne5oetp"}
+{"time":"2024-10-25T20:54:38.2914292+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"wne5oetp"}}
+{"time":"2024-10-25T20:54:38.2914292+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wne5oetp"}}
+{"time":"2024-10-25T20:54:38.2914292+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"wne5oetp"}}
+{"time":"2024-10-25T20:54:38.2914292+09:00","level":"INFO","msg":"stream: closed","id":"wne5oetp"}

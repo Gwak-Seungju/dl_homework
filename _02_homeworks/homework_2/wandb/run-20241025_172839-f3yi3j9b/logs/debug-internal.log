@@ -1,0 +1,48 @@
+{"time":"2024-10-25T17:28:39.5786065+09:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T17:28:39.5786065+09:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\git-directory\\link_dl\\_02_homeworks\\homework_2\\wandb\\run-20241025_172839-f3yi3j9b\\logs\\debug-core.log"}
+{"time":"2024-10-25T17:28:39.58017+09:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T17:28:39.5950775+09:00","level":"INFO","msg":"created new stream","id":"f3yi3j9b"}
+{"time":"2024-10-25T17:28:39.5955805+09:00","level":"INFO","msg":"stream: started","id":"f3yi3j9b"}
+{"time":"2024-10-25T17:28:39.5955805+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"f3yi3j9b"}}
+{"time":"2024-10-25T17:28:39.5955805+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"f3yi3j9b"}}
+{"time":"2024-10-25T17:28:39.5955805+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"f3yi3j9b"}}
+{"time":"2024-10-25T17:28:39.9829361+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T17:28:39.9840818+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T17:28:49.9845334+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:28:59.9849266+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:29:09.9844376+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:29:19.9844885+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:29:29.9847811+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:29:39.9845031+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:29:49.9848383+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:29:59.9844511+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:30:09.9849773+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:30:19.984865+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:30:29.9843831+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:30:39.9845806+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:30:49.9844381+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:30:59.9842957+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:31:09.9845837+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:31:19.9850634+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:31:29.9841442+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:31:39.9849005+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:31:49.9845882+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:31:59.9925334+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:32:09.9845659+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:32:19.9851416+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:32:29.985209+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:32:39.9843985+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:32:49.9847506+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:32:59.9844575+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:33:09.9843988+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:33:14.9662899+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.18.65.138:52233->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2024-10-25T17:33:16.6015627+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/gwak1016-korea-university-of-technology-and-education/titanic-dataset/f3yi3j9b/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2024-10-25T17:33:32.6321249+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T17:33:38.9715546+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T17:33:38.9715546+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T17:34:00.8725767+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T17:34:02.137872+09:00","level":"INFO","msg":"stream: closing","id":"f3yi3j9b"}
+{"time":"2024-10-25T17:34:02.137872+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"f3yi3j9b"}}
+{"time":"2024-10-25T17:34:02.137872+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"f3yi3j9b"}}
+{"time":"2024-10-25T17:34:02.137872+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"f3yi3j9b"}}
+{"time":"2024-10-25T17:34:02.137872+09:00","level":"INFO","msg":"stream: closed","id":"f3yi3j9b"}

@@ -1,0 +1,44 @@
+{"time":"2024-10-25T19:10:39.3116343+09:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T19:10:39.3121382+09:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\user\\git-directory\\link_dl\\_02_homeworks\\homework_2\\wandb\\run-20241025_191039-8yv21kvv\\logs\\debug-core.log"}
+{"time":"2024-10-25T19:10:39.3127426+09:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T19:10:39.3234367+09:00","level":"INFO","msg":"created new stream","id":"8yv21kvv"}
+{"time":"2024-10-25T19:10:39.3234367+09:00","level":"INFO","msg":"stream: started","id":"8yv21kvv"}
+{"time":"2024-10-25T19:10:39.3234367+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"8yv21kvv"}}
+{"time":"2024-10-25T19:10:39.3234367+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"8yv21kvv"}}
+{"time":"2024-10-25T19:10:39.3234367+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"8yv21kvv"}}
+{"time":"2024-10-25T19:10:39.7499626+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T19:10:39.75109+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T19:10:49.7511489+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:11:00.286314+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:11:10.2859666+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:11:20.2866627+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:11:30.2865875+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:11:40.2860277+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:11:50.2861834+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:12:00.2859438+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:12:10.285927+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:12:20.2867286+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:12:30.2858278+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:12:40.2860308+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:12:50.2867774+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:13:00.2859427+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:13:10.2858713+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:13:20.2865891+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:13:30.2859828+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:13:40.2858887+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:13:50.286102+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:14:00.2864395+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:14:10.2866402+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:14:20.286532+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:14:30.2859879+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:14:40.2865348+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:14:50.2875825+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:15:00.2865311+09:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-25T19:15:01.2170585+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T19:15:01.2170585+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T19:15:02.3276247+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T19:15:03.6116362+09:00","level":"INFO","msg":"stream: closing","id":"8yv21kvv"}
+{"time":"2024-10-25T19:15:03.6116362+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"8yv21kvv"}}
+{"time":"2024-10-25T19:15:03.6116362+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"8yv21kvv"}}
+{"time":"2024-10-25T19:15:03.6116362+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"8yv21kvv"}}
+{"time":"2024-10-25T19:15:03.6116362+09:00","level":"INFO","msg":"stream: closed","id":"8yv21kvv"}

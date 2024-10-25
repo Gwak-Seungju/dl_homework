@@ -1,0 +1,44 @@
+Namespace(wandb=False, batch_size=512, epochs=1000)
+{'epochs': 1000, 'batch_size': 512, 'learning_rate': 0.001, 'n_hidden_unit_list': [20, 20]}
+C:\Users\user\git-directory\link_dl\_02_homeworks\homework_2
+C:\Users\user\AppData\Local\Temp\ipykernel_33308\2469457233.py:9: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  all_df["alone"].fillna(0, inplace=True)
+C:\Users\user\AppData\Local\Temp\ipykernel_33308\864621257.py:13: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  all_df["Embarked"].fillna("missing", inplace=True)
+################################################## 1
+Epoch 100, Training loss 0.5668, Validation loss 0.6398
+Epoch 200, Training loss 0.5551, Validation loss 0.6441
+Epoch 300, Training loss 0.5446, Validation loss 0.6158
+Epoch 400, Training loss 0.5310, Validation loss 0.6025
+Epoch 500, Training loss 0.5139, Validation loss 0.6253
+Epoch 600, Training loss 0.4913, Validation loss 0.5518
+Epoch 700, Training loss 0.4602, Validation loss 0.5499
+Epoch 800, Training loss 0.4320, Validation loss 0.5184
+Epoch 900, Training loss 0.4336, Validation loss 0.5412
+Epoch 1000, Training loss 0.4175, Validation loss 0.5349
+C:\Users\user\git-directory\link_dl\_02_homeworks\homework_2
+C:\Users\user\AppData\Local\Temp\ipykernel_33308\2469457233.py:9: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  all_df["alone"].fillna(0, inplace=True)
+C:\Users\user\AppData\Local\Temp\ipykernel_33308\864621257.py:13: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  all_df["Embarked"].fillna("missing", inplace=True)
+Submission file submission.csv has been created.

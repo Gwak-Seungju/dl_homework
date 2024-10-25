@@ -1,0 +1,60 @@
+2024-10-25 22:55:54,495 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 22:55:54,496 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Configure stats pid to 33308
+2024-10-25 22:55:54,496 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Loading settings from C:\Users\user\.config\wandb\settings
+2024-10-25 22:55:54,496 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Loading settings from C:\Users\user\git-directory\link_dl\_02_homeworks\homework_2\wandb\settings
+2024-10-25 22:55:54,496 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 22:55:54,496 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-25 22:55:54,496 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 22:55:54,496 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 22:55:54,497 INFO    MainThread:33308 [wandb_init.py:_log_setup():532] Logging user logs to C:\Users\user\git-directory\link_dl\_02_homeworks\homework_2\wandb\run-20241025_225554-7pbdwqb3\logs\debug.log
+2024-10-25 22:55:54,497 INFO    MainThread:33308 [wandb_init.py:_log_setup():533] Logging internal logs to C:\Users\user\git-directory\link_dl\_02_homeworks\homework_2\wandb\run-20241025_225554-7pbdwqb3\logs\debug-internal.log
+2024-10-25 22:55:54,497 INFO    MainThread:33308 [wandb_init.py:init():617] calling init triggers
+2024-10-25 22:55:54,497 INFO    MainThread:33308 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {'epochs': 1000, 'batch_size': 512, 'learning_rate': 0.001, 'n_hidden_unit_list': [20, 20]}
+2024-10-25 22:55:54,497 INFO    MainThread:33308 [wandb_init.py:init():642] re-initializing run, found existing run on stack: d80s1c3n
+2024-10-25 22:55:54,500 INFO    MainThread:33308 [wandb_run.py:_finish():2164] finishing run gwak1016-korea-university-of-technology-and-education/titanicDataset/d80s1c3n
+2024-10-25 22:55:54,503 INFO    MainThread:33308 [jupyter.py:save_history():459] not saving jupyter history
+2024-10-25 22:55:54,503 INFO    MainThread:33308 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-25 22:55:54,504 INFO    MainThread:33308 [wandb_init.py:_jupyter_teardown():460] cleaning up jupyter logic
+2024-10-25 22:55:54,504 INFO    MainThread:33308 [wandb_run.py:_atexit_cleanup():2428] got exitcode: 0
+2024-10-25 22:55:54,505 INFO    MainThread:33308 [wandb_run.py:_restore():2410] restore
+2024-10-25 22:55:54,506 INFO    MainThread:33308 [wandb_run.py:_restore():2416] restore done
+2024-10-25 22:55:58,685 INFO    MainThread:33308 [wandb_run.py:_footer_history_summary_info():4049] rendering history
+2024-10-25 22:55:58,686 INFO    MainThread:33308 [wandb_run.py:_footer_history_summary_info():4081] rendering summary
+2024-10-25 22:55:58,701 INFO    MainThread:33308 [wandb_run.py:_footer_sync_info():4008] logging synced files
+2024-10-25 22:55:58,758 INFO    MainThread:33308 [wandb_init.py:init():667] starting backend
+2024-10-25 22:55:58,758 INFO    MainThread:33308 [wandb_init.py:init():671] sending inform_init request
+2024-10-25 22:55:58,764 INFO    MainThread:33308 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2024-10-25 22:55:58,765 INFO    MainThread:33308 [wandb_init.py:init():684] backend started and connected
+2024-10-25 22:55:58,779 INFO    MainThread:33308 [wandb_run.py:_label_probe_notebook():1346] probe notebook
+2024-10-25 22:55:58,779 INFO    MainThread:33308 [wandb_run.py:_label_probe_notebook():1356] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-10-25 22:55:58,780 INFO    MainThread:33308 [wandb_init.py:init():779] updated telemetry
+2024-10-25 22:55:58,850 INFO    MainThread:33308 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-25 22:55:59,162 INFO    MainThread:33308 [wandb_init.py:init():863] starting run threads in backend
+2024-10-25 22:55:59,432 INFO    MainThread:33308 [wandb_run.py:_console_start():2465] atexit reg
+2024-10-25 22:55:59,432 INFO    MainThread:33308 [wandb_run.py:_redirect():2313] redirect: wrap_raw
+2024-10-25 22:55:59,433 INFO    MainThread:33308 [wandb_run.py:_redirect():2378] Wrapping output streams.
+2024-10-25 22:55:59,433 INFO    MainThread:33308 [wandb_run.py:_redirect():2403] Redirects installed.
+2024-10-25 22:55:59,435 INFO    MainThread:33308 [wandb_init.py:init():907] run started, returning control to user process
+2024-10-25 22:57:30,670 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 22:57:30,670 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Configure stats pid to 33308
+2024-10-25 22:57:30,670 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Loading settings from C:\Users\user\.config\wandb\settings
+2024-10-25 22:57:30,671 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Loading settings from C:\Users\user\git-directory\link_dl\_02_homeworks\homework_2\wandb\settings
+2024-10-25 22:57:30,671 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 22:57:30,671 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-25 22:57:30,671 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 22:57:30,671 INFO    MainThread:33308 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 22:57:30,672 INFO    MainThread:33308 [wandb_init.py:_log_setup():532] Logging user logs to C:\Users\user\git-directory\link_dl\_02_homeworks\homework_2\wandb\run-20241025_225730-s1q25r4w\logs\debug.log
+2024-10-25 22:57:30,672 INFO    MainThread:33308 [wandb_init.py:_log_setup():533] Logging internal logs to C:\Users\user\git-directory\link_dl\_02_homeworks\homework_2\wandb\run-20241025_225730-s1q25r4w\logs\debug-internal.log
+2024-10-25 22:57:30,672 INFO    MainThread:33308 [wandb_init.py:_jupyter_setup():478] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000257A70ED510>
+2024-10-25 22:57:30,672 INFO    MainThread:33308 [wandb_init.py:init():617] calling init triggers
+2024-10-25 22:57:30,673 INFO    MainThread:33308 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {'epochs': 1000, 'batch_size': 512, 'learning_rate': 0.001, 'n_hidden_unit_list': [20, 20]}
+2024-10-25 22:57:30,673 INFO    MainThread:33308 [wandb_init.py:init():642] re-initializing run, found existing run on stack: 7pbdwqb3
+2024-10-25 22:57:30,675 INFO    MainThread:33308 [wandb_run.py:_finish():2164] finishing run gwak1016-korea-university-of-technology-and-education/titanicDataset/7pbdwqb3
+2024-10-25 22:57:30,675 INFO    MainThread:33308 [wandb_run.py:_atexit_cleanup():2428] got exitcode: 0
+2024-10-25 22:57:30,676 INFO    MainThread:33308 [wandb_run.py:_restore():2410] restore
+2024-10-25 22:57:30,676 INFO    MainThread:33308 [wandb_run.py:_restore():2416] restore done
+2024-10-25 22:57:33,335 INFO    MainThread:33308 [wandb_run.py:_footer_history_summary_info():4049] rendering history
+2024-10-25 22:57:33,336 INFO    MainThread:33308 [wandb_run.py:_footer_history_summary_info():4081] rendering summary
+2024-10-25 22:57:33,359 INFO    MainThread:33308 [wandb_run.py:_footer_sync_info():4008] logging synced files

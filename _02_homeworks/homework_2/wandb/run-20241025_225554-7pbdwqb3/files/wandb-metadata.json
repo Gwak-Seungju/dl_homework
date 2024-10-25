@@ -1,0 +1,30 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "3.10.14",
+  "startedAt": "2024-10-25T13:55:58.765944Z",
+  "program": "_02_homeworks/homework_2/homework2.ipynb",
+  "git": {
+    "remote": "https://github.com/linklab/link_dl.git",
+    "commit": "aa80174a047924ff36a2bf8800ebe9093b978eb1"
+  },
+  "email": "gwak1016@gmail.com",
+  "root": "C:\\Users\\user\\git-directory\\link_dl\\_02_homeworks\\homework_2",
+  "host": "LAPTOP-SH1CVDDG",
+  "username": "user",
+  "executable": "C:\\Users\\user\\anaconda3\\envs\\link_dl_v2\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "492193181696",
+      "used": "320867168256"
+    }
+  },
+  "memory": {
+    "total": "17066573824"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}

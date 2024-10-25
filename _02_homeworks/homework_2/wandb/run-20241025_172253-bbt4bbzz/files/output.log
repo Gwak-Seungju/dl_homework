@@ -1,0 +1,15 @@
+Namespace(wandb=False, batch_size=512, epochs=1000)
+{'epochs': 1000, 'batch_size': 512, 'learning_rate': 0.001, 'n_hidden_unit_list': [20, 20]}
+Data Size: 20640, Input Shape: torch.Size([20640, 8]), Target Shape: torch.Size([20640, 1])
+16512 4128
+################################################## 1
+Epoch 100, Training loss 0.5581, Validation loss 0.5623
+Epoch 200, Training loss 0.4800, Validation loss 0.4782
+Epoch 300, Training loss 0.4411, Validation loss 0.4467
+Epoch 400, Training loss 0.4269, Validation loss 0.4301
+Epoch 500, Training loss 0.4146, Validation loss 0.4182
+Epoch 600, Training loss 0.4060, Validation loss 0.4078
+Epoch 700, Training loss 0.3942, Validation loss 0.3983
+Epoch 800, Training loss 0.3850, Validation loss 0.3895
+Epoch 900, Training loss 0.3767, Validation loss 0.3819
+Epoch 1000, Training loss 0.3737, Validation loss 0.3752

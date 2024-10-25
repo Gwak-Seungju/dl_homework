@@ -1,0 +1,403 @@
+2024-10-25 17:19:06 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 17:22:53 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 17:38:41 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 17:44:40 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 17:51:03 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 19:10:39 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 20:26:20 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 20:34:40 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 20:41:36 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 20:54:08 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 20:54:33 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 21:02:37 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 21:03:16 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 21:03:44 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 21:04:13 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 21:05:42 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 21:06:26 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 21:07:23 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 21:11:05 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 21:22:43 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 21:43:43 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 21:50:47 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 22:17:24 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 22:45:53 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 22:53:45 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 22:55:54 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 22:57:30 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 22:59:26 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 23:01:04 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 23:02:30 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
+2024-10-25 23:16:20 ERROR Traceback (most recent call last):
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 108, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\cli\cli.py", line 258, in login
+    wandb.login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 85, in login
+    configured = _login(
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 347, in _login
+    wlogin.prompt_api_key()
+  File "C:\Users\user\anaconda3\envs\link_dl_v2\lib\site-packages\wandb\sdk\wandb_login.py", line 281, in prompt_api_key
+    raise UsageError("api_key not configured (no-tty). call " + directive)
+wandb.errors.errors.UsageError: api_key not configured (no-tty). call wandb login [your_api_key]
+
